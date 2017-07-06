@@ -17,7 +17,7 @@ composer require techwilk/twig-linewrap
 2. Then add as an extension to TWIG:
 
 ``` php
-$twig->addExtension(new \TechWilk\Twig\Extension\LineWrap($urlGenerator));
+$twig->addExtension(new \TechWilk\Twig\Extension\LineWrap());
 ```
 
 ## Use
