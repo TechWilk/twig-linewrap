@@ -1,6 +1,6 @@
 {
     "name": "techwilk/twig-linewrap",
-    "description": "TWIG filter to limit line length.",
+    "description": "TWIG filter to wrap lines exceeding the specified length.",
     "keywords": [
         "twig",
         "extension",
