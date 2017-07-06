@@ -6,6 +6,8 @@
 
 TWIG filter to wrap lines over a specified length with a newline, or optionally pass in a different separator.
 
+Designed for wrapping iCal files to 75 chars max length, although should be useful in any application requiring line wrapping.
+
 ## Installation
 
 1. Install through composer.
